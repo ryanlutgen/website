@@ -1,3 +1,4 @@
-/**
- * Created by Ryan on 3/11/2016.
- */
+require('bootstrap/dist/css/bootstrap.min.css');
+var angular = require('angular');
+
+angular.module('website', []);
